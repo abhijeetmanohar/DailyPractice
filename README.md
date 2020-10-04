@@ -3,3 +3,4 @@ Practice includes questions from Hacker Rank, CodeSignal, LeetCode, etc.
 
 #### Personal Hacktober Fest - 
 - Oct 3 : String Anargams, Inheritance, and Abstract Class
+- Oct 4 : First Non-Repeating String (O(n^2))
