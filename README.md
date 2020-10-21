@@ -7,3 +7,4 @@ Practice includes questions from Hacker Rank, CodeSignal, LeetCode, etc.
 - Oct 5 : BST Insertion & Print. 
 - Oct 6 : LinkedList Intersection
 - Oct 19 : LinkedList Insert Node at start of list. 
+- Oct 20 : Remove all elements from a linked list of integers that have value **val**.
